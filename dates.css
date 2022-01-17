@@ -1,0 +1,69 @@
+/*body {
+	background-image: url(luke-chesser-eICUFSeirc0-unsplash.jpg);
+	background-size: cover;
+	height: 100vh;
+}*/
+
+body {
+	background-image: url(everton-vila-AsahNlC0VhQ-unsplash.jpg);
+	background-size: cover;
+	width: 100%;
+	background-color: springgreen;
+	background-blend-mode: multiply;
+}
+
+.navbar {
+	width: 100%;
+	margin: none;
+	padding: none;
+	display: flex;
+	/*background-image: url(Sunset.jpg);*/
+}
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.logo{
+	width: 15%;
+}
+.logtext {
+	color: white;
+	margin-left: 350px;
+	font-family: 'Charm', cursive;
+}
+
+.two {
+	padding: 50px;
+}
+.two img {
+	width: 100%;
+	height: 50vh;
+}
+
+.co1 {
+	background-color: white;
+	border: 10px solid white;
+}
+.co2 {
+	background-color: white;
+	border: 10px double white;
+}
+.co3 {
+	background-color: white;
+	border: 10px solid white;
+}
+.co4 {
+	background-color: white;
+	border: 10px solid white;
+}
+
+h6{
+	padding: 10px;
+	font-size: large;
+	height: 5vh;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	/*font-family: 'Charm', cursive;*/
+}

@@ -1,0 +1,102 @@
+body {
+	width: 100%;
+	background-image: url(alex-azabache--Hm_xIcYbUY-unsplash.jpg);
+	background-size: cover;
+	background-position: center;
+	background-color: springgreen;
+	background-blend-mode: multiply;
+}
+
+.maintext {
+	color: white;
+	text-align: center;
+}
+
+.first {
+	height: 100vh;
+}
+
+.navbar {
+	width: 100%;
+}
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+nav img {
+	width: 5%;
+}
+
+.logtext p {
+	margin-left: 500px;
+}
+
+.info {
+	margin-left: 50px;
+	margin-top: 130px;
+}
+.info h1 {
+	/*margin-left: 40px;*/
+	font-size: 100px;
+	font-family: 'Inknut Antiqua', serif;
+}
+.btn {
+	/*margin-left: 130px;*/
+	font-weight: bold;
+	padding: 10px;
+	border-radius: 10px;
+}
+.btn a {
+	padding: 10px;
+	background-color: royalblue;
+	border: 5px solid transparent;
+	color: white;
+}
+.btn a:hover {
+	background-color: white;
+	color: black;
+	transition: 0.3s;
+	padding: 10px;
+
+}
+
+.second {
+	/*background-color: white;*/
+	height: 110vh;
+	/*background-size: cover;*/
+	/*background-image: url(luke-chesser-eICUFSeirc0-unsplash.jpg);
+	background-size: cover;*/
+
+}
+.pic {
+	padding: 10px;
+}
+.text {
+	padding: 10px;
+	text-align: center;
+	color: white;
+	border: 10px double white;
+	margin: 80px;
+}
+.second img {
+	margin: 50px;
+	width: 90%;
+	height: 90vh;
+	border: 10px double white;
+}
+
+.third {
+	height: 20vh;
+}
+.third h6 {
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+	margin-left: 500px;
+	margin-top: 50px;
+}
+.icons {
+	margin-right: 300px;
+}

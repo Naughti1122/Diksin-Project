@@ -1,0 +1,89 @@
+body {
+	background-image: url(dusan-jovic-3P6_EznsaVs-unsplash.jpg);
+	background-size: cover;
+	background-color: midnightblue;
+	background-blend-mode: multiply;
+}
+
+.bigone {
+	width: 100%;
+	height: 100vh;
+}
+
+.navbar {
+	width: 100%;
+	margin: none;
+	padding: none;
+	display: flex;
+	/*background-image: url(Sunset.jpg);*/
+}
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.logo{
+	width: 15%;
+}
+.logtext {
+	color: white;
+	margin-left: 350px;
+	font-family: 'Charm', cursive;
+}
+
+.crush {
+	margin-top: 80px;
+	margin-left: 300px;
+	/*background-image: url(Sunset.jpg);
+	background-size: cover;
+	background-color: white;*/
+	width: 50%;
+	height: 55vh;
+	border: 10px double white;
+	color: white;
+}
+
+.co1 img {
+	width: 120%;
+	height: 52vh;
+}
+.co1 p {
+	text-align: center;
+	padding: 10px;
+}
+.co1 h6 {
+	padding: 10px;
+	text-align: center;
+	font-size: x-large;
+}
+
+.side {
+	padding: 25px;
+	padding-left: 50px;
+	font-weight: bold;
+}
+.side h4 {
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.side p {
+	margin-top: 3px;
+	/*font-weight: bold;*/
+	font-family: 'Charm', cursive;
+}
+
+.fa-map-marker {
+	margin-bottom: 5px;
+	margin-left: 60px;
+	font-size: x-large;
+}
+
+.btn {
+	font-weight: bold;
+	margin-top: 4px;
+	color: white;
+	padding: 10px;
+	margin-left: 80px;
+	background-color: deepskyblue;
+}
